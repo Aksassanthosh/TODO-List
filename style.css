@@ -1,0 +1,20 @@
+
+form{
+padding: 25px 25px 25px 25px;
+text-align: center;
+}
+.a3{width:30%;
+margin-left: 35%;
+margin-top: 10%;
+background-color: rgb(137, 92, 76);}
+h2{text-align: center;}
+body{background-image: url(images/pic2.jpeg);background-size: contain;}
+.a5{background-image: url(images/pic6.jpeg);background-size: cover;}
+.a6{background-image: url(images/pic7.jpeg);background-size: cover;}
+nav{background-color: rgb(136, 80, 57);}
+.a8{background-color:rgb(156, 131, 93);
+color: antiquewhite;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+font-weight:2px;}
+h1{text-align: center;}
